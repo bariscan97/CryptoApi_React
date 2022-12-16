@@ -1,5 +1,5 @@
 
-# CriptoApi
+# CryptoApi
 ## DemoLink ==> https://cripto-money-api.netlify.app/
 
  ### Api_Link https://www.coingecko.com/api/documentations/v3
