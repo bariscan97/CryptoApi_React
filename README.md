@@ -4,6 +4,11 @@
 
  ### Api_Link https://www.coingecko.com/api/documentations/v3
 <br>
+## libs{
+   char.js,
+   react-router
+   react-charjs
+    }
 
 
 
