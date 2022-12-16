@@ -6,7 +6,7 @@
 <br>
 # libs
    
-  <p>char.js<p/>
+  <h1>char.js<h1/>
   <p>react-router<p/>
   <p>react-charjs2<p/>
 
